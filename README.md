@@ -1,4 +1,6 @@
-'''# methods-in-computational-science
+```
+# Organization of this directory
+# methods-in-computational-science
 Creating a repository for APMA 4302 coruse
 .
 ├── LICENSE
@@ -12,4 +14,4 @@ Creating a repository for APMA 4302 coruse
 └── tests
     └── README.md
 
-4 directories, 6 files'''
+4 directories, 6 files
