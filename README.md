@@ -1,4 +1,4 @@
-# ORGANISATION
+# Organization of this directory
 ```
 .
 ├── LICENSE
